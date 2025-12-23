@@ -1,3 +1,6 @@
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/atulkamble/template.git)
+
+
 <div align="center">
 
 **🚀 MyApp** | Built with ❤️ by [Atul Kamble](https://github.com/atulkamble)
