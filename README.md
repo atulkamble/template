@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-atulkamble-181717?logo=github)](https://github.com/atulkamble)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atuljkamble-0A66C2?logo=linkedin)](https://www.linkedin.com/in/atuljkamble/)
-[!(https://img.shields.io/badge/X-atul__kamble-000000?logo=x)](https://x.com/atul_kamble)
+[![X](https://img.shields.io/badge/X-atul_kamble-000000?logo=x)](https://x.com/atul_kamble)
 
 **Version 1.0.0** | Last Updated: December 2025
 
