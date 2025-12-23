@@ -1,6 +1,7 @@
 <div align="center">
 
 [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-24292e?logo=github&style=for-the-badge)](https://codespaces.new/atulkamble/template.git)
+[![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-orange?logo=gitpod&style=for-the-badge)](https://gitpod.io/#https://github.com/atulkamble/template)
 [![Open with VS Code](https://img.shields.io/badge/Open%20with-VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://vscode.dev/github/atulkamble/template)
 [![Open with GitHub Desktop](https://img.shields.io/badge/Open%20with-GitHub%20Desktop-purple?logo=github&style=for-the-badge)](https://desktop.github.com/)
 
