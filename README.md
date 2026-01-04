@@ -50,7 +50,7 @@
   </a>
 </p>
 
-**Version 1.0.0** | Last Updated: January 2026
+**Version 1.0.0** | 
   <strong>Last Updated:</strong> January 2026
 
 <!-- Metadata -->
