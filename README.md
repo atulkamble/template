@@ -53,10 +53,6 @@
 **Version 1.0.0** | 
   <strong>Last Updated:</strong> January 2026
 
-<!-- Metadata -->
-<p>
-  <strong>Version:</strong> 1.0.0 &nbsp;•&nbsp;
 
-</p>
 
 </div>
