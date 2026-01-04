@@ -51,11 +51,12 @@
 </p>
 
 **Version 1.0.0** | Last Updated: January 2026
+  <strong>Last Updated:</strong> January 2026
 
 <!-- Metadata -->
 <p>
   <strong>Version:</strong> 1.0.0 &nbsp;•&nbsp;
-  <strong>Last Updated:</strong> January 2026
+
 </p>
 
 </div>
