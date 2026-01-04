@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atuljkamble-0A66C2?logo=linkedin)](https://www.linkedin.com/in/atuljkamble/)
 [![X](https://img.shields.io/badge/X-atul_kamble-000000?logo=x)](https://x.com/atul_kamble)
 
-**Version 1.0.0** | Last Updated: January 2026
+
 
 </div>
 
@@ -49,6 +49,8 @@
     <img src="https://img.shields.io/badge/X-@atul_kamble-000000?logo=x&style=flat-square" />
   </a>
 </p>
+
+**Version 1.0.0** | Last Updated: January 2026
 
 <!-- Metadata -->
 <p>
