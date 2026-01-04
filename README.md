@@ -15,6 +15,6 @@
 
 </div>
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot)
+[![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Open%20in&message=Dev%20Containers&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot)
 [![Unit Tests](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot/actions/workflows/unit-tests.yml)
 
