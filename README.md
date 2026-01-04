@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/Open%20with-VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge" alt="Open with VS Code" />
   </a>
   <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/atulkamble/template">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Open%20in&message=Dev%20Containers&color=blue&logo=visualstudiocode" alt="Open in Dev Containers" />
+    <img src="https://img.shields.io/badge/Dev%20Containers-Ready-blue?logo=docker&style=for-the-badge" />
   </a>
   <a href="https://desktop.github.com/">
-    <img src="https://img.shields.io/badge/Open%20with-GitHub%20Desktop-6f42c1?logo=github&style=for-the-badge" alt="Open with GitHub Desktop" />
+    <img src="https://img.shields.io/badge/GitHub-Desktop-6f42c1?logo=github&style=for-the-badge" />
   </a>
 </p>
 
@@ -63,12 +63,7 @@
   <a href="https://vscode.dev/github/atulkamble/template">
     <img src="https://img.shields.io/badge/Open%20with-VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge" />
   </a>
-  <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/atulkamble/template">
-    <img src="https://img.shields.io/badge/Dev%20Containers-Ready-blue?logo=docker&style=for-the-badge" />
-  </a>
-  <a href="https://desktop.github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Desktop-6f42c1?logo=github&style=for-the-badge" />
-  </a>
+
 </p>
 
 <!-- Repo Status -->
