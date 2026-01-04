@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-24292e?logo=github&style=for-the-badge)](https://codespaces.new/atulkamble/template.git)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/atulkamble/template.git)
 [![Open with VS Code](https://img.shields.io/badge/Open%20with-VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://vscode.dev/github/atulkamble/template)
 [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Open%20in&message=Dev%20Containers&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/atulkamble/template)
