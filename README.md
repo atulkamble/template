@@ -14,7 +14,3 @@
 **Version 1.0.0** | Last Updated: January 2026
 
 </div>
-
-
-[![Unit Tests](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot/actions/workflows/unit-tests.yml)
-
