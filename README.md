@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<!-- Project Title -->
 <h1>🚀 MyApp</h1>
 <p><strong>Built with ❤️ by <a href="https://github.com/atulkamble">Atul Kamble</a></strong></p>
 
