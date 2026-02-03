@@ -29,12 +29,8 @@
 </a>
 </p>
 
-skills-migrate-ado-repository
-
-
 [![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=atulkamble&template_name=template&owner=%40me&name=new-repository&description=Forked+from+@atulkamble+to+GitHub&visibility=public)
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=migrate-ado-repository&owner=%40me&name=skills-migrate-ado-repository&description=Forked:+from+Atul+Kamble+to+GitHub&visibility=public)
 
 
 
